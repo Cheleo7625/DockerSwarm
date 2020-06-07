@@ -1,2 +1,0 @@
-# DockerSwarm
-Sistemas 2
